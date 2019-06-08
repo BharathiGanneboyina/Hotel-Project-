@@ -1,3 +1,4 @@
+//Hotel project using AWT//
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
