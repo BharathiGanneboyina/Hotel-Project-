@@ -1,3 +1,6 @@
+/* This is comment in Java */ 
+
+/* This is second line commit */
 import java.awt.*;
 import java.awt.event.*;
 public class Read1 extends Frame implements ItemListener{
